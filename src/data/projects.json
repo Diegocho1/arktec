@@ -1,0 +1,67 @@
+[
+  {
+    "id": "proyecto-001",
+    "title": "Casa Campestre",
+    "description": "Descripción del proyecto.",
+    "category": "residencial",
+    "coverImage": "/assets/images/proyecto-001/RRE-03 Fachada Casa.webp",
+    "images": [
+      "/assets/images/proyecto-001/RRE-03 Fachada Casa.webp",
+      "/assets/images/proyecto-001/RRE-03 Fachada Casa.webp"
+    ],
+    "year": "2022",
+    "location": "Durango, México"
+  },
+  {
+    "id": "proyecto-002",
+    "title": "Centro de Inteligencia DRTM",
+    "description": "Descripción del proyecto.",
+    "category": "residencial",
+    "coverImage": "/assets/images/proyecto-002/RRE-02 Drotium.webp",
+    "images": [
+      "/assets/images/proyecto-002/RRE-02 Drotium.webp",
+      "/assets/images/proyecto-002/RRE-02 Drotium.webp"
+    ],
+    "year": "2024",
+    "location": "Durango, México"
+  },
+  {
+    "id": "proyecto-003",
+    "title": "Mr. Living",
+    "description": "Descripción del proyecto.",
+    "category": "residencial",
+    "coverImage": "/assets/images/proyecto-003/20260217_131152.jpg.webp",
+    "images": [
+      "/assets/images/proyecto-003/20260217_131152.jpg.webp",
+      "/assets/images/proyecto-003/20260217_131152.jpg.webp"
+    ],
+    "year": "2025",
+    "location": "Durango, México"
+  },
+  {
+    "id": "proyecto-004",
+    "title": "Mr. Sliders",
+    "description": "Descripción del proyecto.",
+    "category": "residencial",
+    "coverImage": "/assets/images/proyecto-004/MR SLIDERS.webp",
+    "images": [
+      "/assets/images/proyecto-004/MR SLIDERS.webp",
+      "/assets/images/proyecto-004/MR SLIDERS.webp"
+    ],
+    "year": "2025",
+    "location": "Durango, México"
+  },
+  {
+    "id": "proyecto-005",
+    "title": "Centro de Inteligencia DRTM - Interior",
+    "description": "Descripción del proyecto.",
+    "category": "residencial",
+    "coverImage": "/assets/images/proyecto-005/Render final.webp",
+    "images": [
+      "/assets/images/proyecto-005/Render final.webp",
+      "/assets/images/proyecto-005/Render final.webp"
+    ],
+    "year": "2024",
+    "location": "Durango, México"
+  }
+]
