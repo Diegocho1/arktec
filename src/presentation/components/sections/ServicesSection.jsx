@@ -6,29 +6,29 @@ const SERVICES = [
     category: Category.RESIDENCIAL, 
     title: 'Diseño y planeación',
     description: 'Desarrollo arquitectónico basado en el análisis del contexto, las necesidades del cliente y la viabilidad técnica, estructurando el proyecto desde la conceptualización initial hasta su definición arquitectónica y constructiva.', 
-    image: '/assets/images/Imagenes_servicios/Diseño_planeacion_BN.png',
-    colorImage: '/assets/images/Imagenes_servicios/Diseño_planeacion_CL.png'
+    image: '/assets/images/Imagenes_servicios/Diseño_planeacion_BN.webp',
+    colorImage: '/assets/images/Imagenes_servicios/Diseño_planeacion_CL.webp'
   },
   {
     category: Category.COMERCIAL, 
     title: 'Visualización y tecnología',
     description: 'Representación digital del proyecto mediante visualización arquitectónica y tecnologías inmersivas que facilitan la evaluación espacial y la toma de decisiones.',
-    image: '/assets/images/Imagenes_servicios/Visualizacion_tecnologia_BN.png',
-    colorImage: '/assets/images/Imagenes_servicios/Visualizacion_tecnologia_CL.png'
+    image: '/assets/images/Imagenes_servicios/Visualizacion_tecnologia_BN.webp',
+    colorImage: '/assets/images/Imagenes_servicios/Visualizacion_tecnologia_CL.webp'
   },
   {
     category: Category.INDUSTRIAL, 
     title: 'Estudios técnicos y levantamientos topográficos',
     description: 'Obtención y procesamiento de información espacial mediante topografía, captura LiDAR, fotogrametría y levantamientos con drones para generar bases precisas de análisis y desarrollo del proyecto.',
-    image: '/assets/images/Imagenes_servicios/Estudios_tecnicos_levantamientos_topograficos_BN.png',
-    colorImage: '/assets/images/Imagenes_servicios/Estudios_tecnicos_levantamientos_topograficos_CL.png'
+    image: '/assets/images/Imagenes_servicios/Estudios_tecnicos_levantamientos_topograficos_BN.webp',
+    colorImage: '/assets/images/Imagenes_servicios/Estudios_tecnicos_levantamientos_topograficos_CL.webp'
   },
   {
     category: Category.INTERIORISMO, 
     title: 'Construcción y ejecución',
     description: 'Coordinación y desarrollo del proceso constructivo mediante control técnico del proyecto, integración de especialidades y seguimiento de obra para asegurar la correcta materialización del diseño',
-    image: '/assets/images/Imagenes_servicios/Construccion_ejecucion_BN.png',
-    colorImage: '/assets/images/Imagenes_servicios/Construccion_ejecucion_CL.png'
+    image: '/assets/images/Imagenes_servicios/Construccion_ejecucion_BN.webp',
+    colorImage: '/assets/images/Imagenes_servicios/Construccion_ejecucion_CL.webp'
   },
 ];
 
