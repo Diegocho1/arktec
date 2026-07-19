@@ -38,7 +38,7 @@ export function HeroSection() {
       <div className={`hero__content ${isVisible ? 'hero__content--visible' : ''}`}>
         <p className="hero__eyebrow">Arquitectos</p>
         <h1 className="hero__title">
-          Diseñamos<br />espacios que<br />inspiran.
+          Diseñamos<br />espacios que<br />inspiran bebesitaaaaaa.
         </h1>
         <button
           className="hero__cta"
